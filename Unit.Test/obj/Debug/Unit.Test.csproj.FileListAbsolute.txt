@@ -1,0 +1,10 @@
+C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\bin\Debug\Unit.Test.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\bin\Debug\Unit.Test.pdb
+C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\bin\Debug\Ipod Inventory.exe
+C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\bin\Debug\nunit.framework.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\bin\Debug\nunit.mocks.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\bin\Debug\Ipod Inventory.pdb
+C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\bin\Debug\nunit.framework.xml
+C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\obj\Debug\Unit.Test.csprojResolveAssemblyReference.cache
+C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\obj\Debug\Unit.Test.dll
+C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\obj\Debug\Unit.Test.pdb

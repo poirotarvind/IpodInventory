@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ipod Inventory", "Ipod Inventory\Ipod Inventory.csproj", "{35C7DF7D-6EA3-43C4-A559-294C57EE2297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit.Test", "Unit.Test\Unit.Test.csproj", "{30323F49-CB4B-42B1-8569-A89556DEB5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C7DF7D-6EA3-43C4-A559-294C57EE2297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C7DF7D-6EA3-43C4-A559-294C57EE2297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C7DF7D-6EA3-43C4-A559-294C57EE2297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C7DF7D-6EA3-43C4-A559-294C57EE2297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30323F49-CB4B-42B1-8569-A89556DEB5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30323F49-CB4B-42B1-8569-A89556DEB5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30323F49-CB4B-42B1-8569-A89556DEB5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30323F49-CB4B-42B1-8569-A89556DEB5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

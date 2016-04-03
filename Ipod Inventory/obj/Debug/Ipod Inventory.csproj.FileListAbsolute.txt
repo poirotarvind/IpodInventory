@@ -1,0 +1,6 @@
+c:\users\arvind\documents\visual studio 2015\Projects\Ipod Inventory\Ipod Inventory\bin\Debug\Ipod Inventory.exe.config
+c:\users\arvind\documents\visual studio 2015\Projects\Ipod Inventory\Ipod Inventory\bin\Debug\Ipod Inventory.exe
+c:\users\arvind\documents\visual studio 2015\Projects\Ipod Inventory\Ipod Inventory\bin\Debug\Ipod Inventory.pdb
+c:\users\arvind\documents\visual studio 2015\Projects\Ipod Inventory\Ipod Inventory\obj\Debug\Ipod Inventory.csprojResolveAssemblyReference.cache
+c:\users\arvind\documents\visual studio 2015\Projects\Ipod Inventory\Ipod Inventory\obj\Debug\Ipod Inventory.exe
+c:\users\arvind\documents\visual studio 2015\Projects\Ipod Inventory\Ipod Inventory\obj\Debug\Ipod Inventory.pdb

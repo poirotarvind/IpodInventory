@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Arvind\Documents\Visual Studio 2015\Projects\Ipod Inventory\Unit.Test\bin\Debug\Unit.Test.dll" total="3" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-12-09" time="06:55:35">
+  <environment nunit-version="2.5.1.9189" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.1\bin\net-2.0" machine-name="ARVIND-PC" user="Arvind" user-domain="ARVIND-PC" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite name="C:\Users\Arvind\Documents\Visual Studio 2015\Projects\Ipod Inventory\Unit.Test\bin\Debug\Unit.Test.dll" executed="True" success="False" time="0.125" asserts="0">
+    <results>
+      <test-suite name="Unit" executed="True" success="False" time="0.125" asserts="0">
+        <results>
+          <test-suite name="Test" executed="True" success="False" time="0.109" asserts="0">
+            <results>
+              <test-suite name="TestClass" executed="True" success="False" time="0.031" asserts="0">
+                <results>
+                  <test-suite name="ArgentinaTest" executed="True" success="True" time="0.016" asserts="0">
+                    <results>
+                      <test-case name="Unit.Test.TestClass.ArgentinaTest()" executed="True" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite name="BrazilTest" executed="True" success="True" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="Unit.Test.TestClass.BrazilTest()" executed="True" success="True" time="0.000" asserts="1" />
+                    </results>
+                  </test-suite>
+                  <test-suite name="FailedTest" executed="True" success="False" time="0.000" asserts="0">
+                    <results>
+                      <test-case name="Unit.Test.TestClass.FailedTest()" executed="True" success="False" time="0.000" asserts="1">
+                        <failure>
+                          <message><![CDATA[  Expected: 7800
+  But was:  0
+]]></message>
+                          <stack-trace><![CDATA[at Unit.Test.TestClass.FailedTest() in C:\Users\Arvind\documents\visual studio 2015\Projects\Ipod Inventory\Unit.Test\TestClass.cs:line 47
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
